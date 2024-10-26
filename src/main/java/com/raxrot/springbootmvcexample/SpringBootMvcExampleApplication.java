@@ -8,6 +8,7 @@ public class SpringBootMvcExampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringBootMvcExampleApplication.class, args);
+
     }
 
 }
